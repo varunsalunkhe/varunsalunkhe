@@ -31,5 +31,5 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=varunsalunkhe&show_icons=true&theme=dark&text_color=d3d3d3&&locale=en&layout=compact" alt="varunsalunkhe" />
 
 <a href ="https://github.com/varunsalunkhe" title="Redirect's to varunsalunkhe Github">
-<img width="43%" src="https://github-readme-stats.vercel.app/api?username=varunsalunkhe&layout=compact&theme=dark&langs_count=6&count_private=false&text_color=d3d3d3&title_color=00E6FE"/></a>
+<img width="45%" src="https://github-readme-stats.vercel.app/api?username=varunsalunkhe&layout=compact&theme=dark&langs_count=6&count_private=false&text_color=d3d3d3&title_color=00E6FE"/></a>
 </p>
