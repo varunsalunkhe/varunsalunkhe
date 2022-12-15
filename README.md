@@ -1,10 +1,8 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...
-)](https://rishavchanda.io
-)
+
 <h1 align="center">Hi 👋, I'm Varun Salunkhe</h1>
 <h3 align="center">I'm a Data Science enthusiast, who likes to work with complex data-related problems. Confident and responsible attitude, excellent orgnizational skills, Motivated to learn, grow and excel in the Data Science industry.</h3>
 
-(img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fstemettes.org%2Fzine%2Farticles%2Fhow-my-love-of-maths-led-to-my-career-in-data-science-at-mi6%2F&psig=AOvVaw3DYryQQos80VRVW3iOgIsI&ust=1671179975927000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCOD8pdic-_sCFQAAAAAdAAAAABAo")
+
 
 - 🔭 I’m currently working on [Mushroom Classification](https://github.com/varunsalunkhe/Project--Mushroom.git)
 
