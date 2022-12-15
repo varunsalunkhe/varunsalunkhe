@@ -31,6 +31,7 @@
 
 <a href="https://www.youtube.com/c/https://www.youtube.com/@varunsalunkhe07">
   <img src="https://img.shields.io/badge/YOUTUBE-orange?style=for-the-badge&logo=youtube"/>
+  
 </a>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -41,8 +42,8 @@
 
 
 <p align="center">
-<img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs?username=varunsalunkhe&show_icons=true&theme=dark&text_color=d3d3d3&&locale=en&layout=compact" alt="varunsalunkhe" />
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs?username=varunsalunkhe&show_icons=true&theme=dark&text_color=d3d3d3&&locale=en&layout=compact" alt="varunsalunkhe" />
 
 <a href ="https://github.com/varunsalunkhe" title="Redirect's to varunsalunkhe Github">
-<img width="51%" src="https://github-readme-stats.vercel.app/api?username=varunsalunkhe&layout=compact&theme=dark&langs_count=6&count_private=false&text_color=d3d3d3&title_color=00E6FE"/></a>
+<img width="53%" src="https://github-readme-stats.vercel.app/api?username=varunsalunkhe&layout=compact&theme=dark&langs_count=6&count_private=false&text_color=d3d3d3&title_color=00E6FE"/></a>
 </p>
