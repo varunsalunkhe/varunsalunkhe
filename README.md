@@ -1,6 +1,6 @@
 <img src="https://github.com/varunsalunkhe/varunsalunkhe/blob/main/data/header.jpg" alt="Data Science" width = 100%>
 <h1 align="center">Hi 👋, I'm Varun Salunkhe</h1>
-<h3 align="center">I'm a Data Science enthusiast, who likes to work with complex data-related problems. Confident and responsible attitude, excellent orgnizational skills, Motivated to learn, grow and excel in the Data Science industry.</h3>
+<h3 align="center">I'm a Data Science enthusiast who likes to work with complex data-related problems and have good knowledge of Machine Learning algorithms and Visualization tools such as Tableau and PowerBl.</h3>
 <img align="right" src="https://github.com/varunsalunkhe/varunsalunkhe/blob/main/data/ai-gif.gif" alt="Data Science" width = 40%>
 
 - 🔭 I’m currently working on [Mushroom Classification](https://github.com/varunsalunkhe/Project--Mushroom.git)
