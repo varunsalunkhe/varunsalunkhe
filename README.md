@@ -1,3 +1,4 @@
+<img src="https://github.com/varunsalunkhe/varunsalunkhe/blob/main/data/header.jpg" alt="Data Science" width = 100%>
 <h1 align="center">Hi 👋, I'm Varun Salunkhe</h1>
 <h3 align="center">I'm a Data Science enthusiast, who likes to work with complex data-related problems. Confident and responsible attitude, excellent orgnizational skills, Motivated to learn, grow and excel in the Data Science industry.</h3>
 
