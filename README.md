@@ -1,6 +1,7 @@
 <img src="https://github.com/varunsalunkhe/varunsalunkhe/blob/main/data/header.jpg" alt="Data Science" width = 100%>
 <h1 align="center">Hi 👋, I'm Varun Salunkhe</h1>
 <h3 align="center">I'm a Data Science enthusiast, who likes to work with complex data-related problems. Confident and responsible attitude, excellent orgnizational skills, Motivated to learn, grow and excel in the Data Science industry.</h3>
+<img align="right" src="https://github.com/varunsalunkhe/varunsalunkhe/blob/main/data/ai-gif.gif" alt="Data Science" width = 40%>
 
 - 🔭 I’m currently working on [Mushroom Classification](https://github.com/varunsalunkhe/Project--Mushroom.git)
 
@@ -13,6 +14,8 @@
 - 📫 How to reach me **varunsalunkhe07@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1FKFKeNYoY5Kmxj5i6nu-leouF7nV-4o6/view?usp=share_link](https://drive.google.com/file/d/1FKFKeNYoY5Kmxj5i6nu-leouF7nV-4o6/view?usp=share_link)
+
+
 
 <h3 align="left">Connect with me:</h3>
 <a href="https://www.linkedin.com/in/varun-salunkhe-35b6b5214/">
