@@ -29,7 +29,7 @@
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
-<a href="https://www.youtube.com/c/https://www.youtube.com/@varunsalunkhe07">
+<a href="https://www.youtube.com/channel/UCekAfUwvLkP_8JJKNNd_XKw">
   <img src="https://img.shields.io/badge/YOUTUBE-orange?style=for-the-badge&logo=youtube"/>
   
 </a>
