@@ -5,8 +5,6 @@
 
 - 👯 I’m looking to collaborate on [Flight-Ticket-Prices-Prediction](https://github.com/SaurabhJumnalkar/Flight-Ticket-Prices-Prediction.git)
 
-- 🤝 I’m looking for help with [Flight-Ticket-Prices-Prediction](https://github.com/SaurabhJumnalkar/Flight-Ticket-Prices-Prediction.git)
-
 - 👨‍💻 All of my projects are available at [https://github.com/varunsalunkhe](https://github.com/varunsalunkhe)
 
 
