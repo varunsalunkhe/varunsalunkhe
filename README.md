@@ -14,6 +14,8 @@
 
 - 📫 How to reach me **varunsalunkhe07@gmail.com**
 
+- ⚡ Fun fact: I love to play with data related problems.
+
 - 📄 Know about my experiences [https://drive.google.com/file/d/1FKFKeNYoY5Kmxj5i6nu-leouF7nV-4o6/view?usp=share_link](https://drive.google.com/file/d/1FKFKeNYoY5Kmxj5i6nu-leouF7nV-4o6/view?usp=share_link)
 
 
