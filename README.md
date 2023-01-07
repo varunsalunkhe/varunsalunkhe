@@ -16,7 +16,7 @@
 
 - ⚡ Fun fact: I love to play with data related problems.
 
-- 📄 Know about my experiences [View](https://drive.google.com/file/d/1qFfV6AOMEEZVnMMAxKXWVe1KNRi6FCWq/view?usp=drivesdk)
+- 📄 Know about my experiences [View](https://drive.google.com/file/d/1BuO2EGMdFwn-AmX2VvfBaiB4WLcH6avL/view?usp=share_link)
 
 
 
