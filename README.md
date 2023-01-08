@@ -2,6 +2,11 @@
 <h1 align="center"> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm Varun Salunkhe</h1>
 <!-- <h1 align="center">Hi 👋, I'm Varun Salunkhe</h1> -->
 <h3 align="center">I'm a Data Science enthusiast who likes to work with complex data-related problems and have good knowledge of Machine Learning algorithms and Visualization tools such as Tableau and PowerBl.</h3>
+
+<!-- Followers -->
+![GitHub followers](https://img.shields.io/github/followers/varunsalunkhe?style=flat&label=FOLLOWERS) <img src="https://komarev.com/ghpvc/?username=varunsalunkhe&label=PROFILE VIEWS  &color=red&style=flat" alt="varunsalunkhe"/>
+
+
 <img align="right" src="https://github.com/varunsalunkhe/varunsalunkhe/blob/main/data/ai-gif.gif" alt="Data Science" width = 40%>
 
 - 🔭 I’m currently working on [Mushroom Classification](https://github.com/varunsalunkhe/Project--Mushroom.git)
