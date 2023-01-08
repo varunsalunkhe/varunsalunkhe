@@ -52,6 +52,8 @@
 
 
 
+
+
 <p align="center">
 <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs?username=varunsalunkhe&show_icons=true&theme=dark&text_color=d3d3d3&&locale=en&layout=compact" alt="varunsalunkhe" />
 
@@ -62,3 +64,12 @@
 <p align="center">
 <a href="https://github.com/varunsalunkhe" >
 <img width="55%" title="Redirect's to varunsalunkhe Github" src="https://github-readme-streak-stats.herokuapp.com/?user=varunsalunkhe&theme=dark&theme=black-ice&stroke=0000" /></a></p>
+
+
+<details>
+<summary> <bold>CLICK TO WATCH CONTRIBUTION GRAPH </bold> </summary>
+
+
+[![varunsalunkhe's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=varunsalunkhe&theme=react-dark&area_color=4b889bad)](https://github.com/varunsalunkhe/github-readme-activity-graph)
+
+</details>
