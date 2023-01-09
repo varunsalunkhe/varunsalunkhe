@@ -21,7 +21,7 @@
 
 - ⚡ Fun fact: I love to play with data related problems.
 
-- 📄 Know about my experiences [View](https://drive.google.com/file/d/1BuO2EGMdFwn-AmX2VvfBaiB4WLcH6avL/view?usp=share_link)
+- 📄 Know about my experiences [View](https://drive.google.com/file/d/1iCRdbcezdRnTAvGiDTy86oNajmB8ppHD/view?usp=share_link)
 
 
 
