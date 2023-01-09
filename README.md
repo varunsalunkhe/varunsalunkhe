@@ -50,6 +50,10 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=varunsalunkhe" alt="varunsalunkhe" /></a> </p>
 
+<!-- <p align="center">
+<a href="https://github.com/varunsalunkhe"><img src="https://github-profile-trophy.vercel.app/username=varunsalunkhe&rank=SSS,SS,S,A,AA,AAA,SECRET,B,C&row=1&theme=flat&no-frame=true" alt="varunsalunkhe"/></a>
+</p>
+ -->
 
 
 
