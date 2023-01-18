@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on [Flight-Ticket-Prices-Prediction](https://github.com/SaurabhJumnalkar/Flight-Ticket-Prices-Prediction.git) Project
 
-- 👯 I’m looking to collaborate on [Flight-Ticket-Prices-Prediction](https://github.com/SaurabhJumnalkar/Flight-Ticket-Prices-Prediction.git) Project
+- 👯 I’m looking to collaborate on [Flight-Ticket-Prices-Prediction](https://github.com/varunsalunkhe/Image-Background-Removal.git) Project
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/varunsalunkhe)
 
