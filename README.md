@@ -9,9 +9,9 @@
 
 <img align="right" src="https://github.com/varunsalunkhe/varunsalunkhe/blob/main/data/ai-gif.gif" alt="Data Science" width = 40%>
 
-- 🔭 I’m currently working on [Flight-Ticket-Prices-Prediction](https://github.com/SaurabhJumnalkar/Flight-Ticket-Prices-Prediction.git) Project
+- 🔭 I’m currently working on [Crime Detection](https://github.com/varunsalunkhe/Crime-Detection.git) Project
 
-- 👯 I’m looking to collaborate on [Image Background Removal](https://github.com/varunsalunkhe/Image-Background-Removal.git) Project
+- 👯 I’m looking to collaborate on [Crime Detection](https://github.com/varunsalunkhe/Crime-Detection.git) Project
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/varunsalunkhe)
 
