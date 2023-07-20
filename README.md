@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working in Wipro
 
-- 👯 I’m looking to collaborate on [Crime Detection](https://github.com/varunsalunkhe/Crime-Detection.git) Project
+ <!-- 👯 I’m looking to collaborate on [Crime Detection](https://github.com/varunsalunkhe/Crime-Detection.git) Project-->
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/varunsalunkhe)
 
