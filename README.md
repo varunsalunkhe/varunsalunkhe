@@ -21,7 +21,7 @@
 
 - ⚡ Fun fact: I love to play with data related problems.
 
-- 📄 Know about my experiences [View](https://drive.google.com/file/d/1ea3SPv40M2gQMLcESEOBYRZ-9t2ca41a/view?usp=share_link)
+- 📄 Know about my experiences [View](https://www.linkedin.com/in/varun-salunkhe-35b6b5214/overlay/1635533817668/single-media-viewer/?profileId=ACoAADY1ZrcB0qC9BpWsbkho8rs5RQbivYx3Pxw)
 
 
 
