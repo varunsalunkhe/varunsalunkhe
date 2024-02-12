@@ -17,7 +17,7 @@
 
 
 
-- 📫 How to reach me **varunsalunkhe07@gmail.com**
+- 📫 How to reach me **varunsalunkhe007@gmail.com**
 
 - ⚡ Fun fact: I love to play with data related problems.
 
