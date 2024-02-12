@@ -29,7 +29,7 @@
 <a href="https://www.linkedin.com/in/varun-salunkhe-35b6b5214/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> 
  </a> 
-<a href="mailto:varunsalunkhe07@gmail.com">
+<a href="mailto:varunsalunkhe007@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
