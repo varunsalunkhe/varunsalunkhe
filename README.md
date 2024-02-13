@@ -9,7 +9,7 @@
 
 <img align="right" src="https://github.com/varunsalunkhe/varunsalunkhe/blob/main/data/ai-gif.gif" alt="Data Science" width = 40%>
 
-- 🔭 I’m currently working on my <b>Machine Learning</b> and <b>Deep learning</b> Models.
+- 🔭 I’m currently working on my <b>Deep Learning</b> and <b> LLM</b> Models.
 
  <!-- 👯 I’m looking to collaborate on [Crime Detection](https://github.com/varunsalunkhe/Crime-Detection.git) Project-->
 
