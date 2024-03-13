@@ -19,9 +19,9 @@
 
 - 📫 How to reach me **varunsalunkhe007@gmail.com**
 
-- ⚡ Fun fact: I love to play with data related problems.
+- ⚡ Fun fact: I love to play with data.
 
-- 📄 Know about my experiences [View](https://www.linkedin.com/in/varun-salunkhe-35b6b5214/overlay/1635533817668/single-media-viewer/?profileId=ACoAADY1ZrcB0qC9BpWsbkho8rs5RQbivYx3Pxw)
+<!--- 📄 Know about my experiences [View](https://www.linkedin.com/in/varun-salunkhe-35b6b5214/overlay/1635533817668/single-media-viewer/?profileId=ACoAADY1ZrcB0qC9BpWsbkho8rs5RQbivYx3Pxw)-->
 
 
 
