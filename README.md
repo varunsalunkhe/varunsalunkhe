@@ -4,7 +4,10 @@
 <h3 align="center">I'm a Data Science Enthusiast, who likes to work with complex data-related problems and have good knowledge of Python and Machine Learning algorithms. Confident and responsible attitude, excellent orgnizational skills, motivated to learn, grow and excel in the Data Science industry.</h3>
 
 <!-- Followers -->
-![GitHub followers](https://img.shields.io/github/followers/varunsalunkhe?style=flat&label=FOLLOWERS) <img src="https://komarev.com/ghpvc/?username=varunsalunkhe&label=PROFILE VIEWS  &color=red&style=flat" alt="varunsalunkhe"/>
+<!-- ![GitHub followers](https://img.shields.io/github/followers/varunsalunkhe?style=flat&label=FOLLOWERS) <img src="https://komarev.com/ghpvc/?username=varunsalunkhe&label=PROFILE VIEWS  &color=red&style=flat" alt="varunsalunkhe"/> -->
+
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fvarunsalunkhe&labelColor=%23697689&countColor=%23dce775) &nbsp;
+[![GitHub followers](https://img.shields.io/github/followers/varunsalunkhe?logo=GitHub&style=for-the-badge)](https://github.com/varunsalunkhe) &nbsp; [![GitHub Stars](https://img.shields.io/github/stars/varunsalunkhe?logo=github&style=for-the-badge)](https://github.com/varunsalunkhe)
 
 
 <img align="right" src="https://github.com/varunsalunkhe/varunsalunkhe/blob/main/data/ai-gif.gif" alt="Data Science" width = 40%>
