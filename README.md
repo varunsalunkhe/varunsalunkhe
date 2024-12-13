@@ -67,6 +67,8 @@
 <a href="https://github.com/varunsalunkhe" >
 <img width="55%" title="Redirect's to varunsalunkhe Github" src="https://github-readme-streak-stats.herokuapp.com/?user=varunsalunkhe&theme=dark&theme=black-ice&stroke=0000" /></a></p>
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=varunsalunkhe)](https://git.io/streak-stats)
+
 
 <details>
 <summary> <bold>CLICK TO WATCH CONTRIBUTION GRAPH </bold> </summary>
