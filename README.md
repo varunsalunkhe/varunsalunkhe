@@ -52,10 +52,6 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=varunsalunkhe" alt="varunsalunkhe" /></a> </p>
 
-
-
-
-
 <p align="center">
 <img width="44%" src="https://github-readme-stats.vercel.app/api/top-langs?username=varunsalunkhe&show_icons=true&theme=dark&text_color=d3d3d3&&locale=en&layout=compact" alt="varunsalunkhe" />
 
