@@ -1,7 +1,9 @@
 <img src="https://github.com/varunsalunkhe/varunsalunkhe/blob/main/data/header.jpg" alt="Data Science" width = 100%>
 <h1 align="center"> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm Varun Salunkhe</h1>
 <!-- <h1 align="center">Hi 👋, I'm Varun Salunkhe</h1> -->
-<h3 align="center">I'm a Data Science Enthusiast, who likes to work with complex data-related problems and have good knowledge of Python and Machine Learning algorithms. Confident and responsible attitude, excellent orgnizational skills, motivated to learn, grow and excel in the Data Science industry.</h3>
+<!-- <h3 align="center">I'm a Data Science Enthusiast, who likes to work with complex data-related problems and have good knowledge of Python and Machine Learning algorithms. Confident and responsible attitude, excellent orgnizational skills, motivated to learn, grow and excel in the Data Science industry.</h3> -->
+
+<h3 align="center">As a Data Scientist, I specialize in applying my expertise in AI/ML and GenAI to develop innovative solutions for diverse business and social challenges.</h3> 
 
 <!-- Followers -->
 <!-- ![GitHub followers](https://img.shields.io/github/followers/varunsalunkhe?style=flat&label=FOLLOWERS) <img src="https://komarev.com/ghpvc/?username=varunsalunkhe&label=PROFILE VIEWS  &color=red&style=flat" alt="varunsalunkhe"/> -->
