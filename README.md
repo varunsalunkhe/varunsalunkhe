@@ -39,7 +39,7 @@
 </a>
 
 <a href="https://varunsalunkhe.github.io/website/">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Portfolio-E4405F?style=for-the-badge&logo=Portfolio&logoColor=white"/>
 </a>
 
 <a href="https://www.youtube.com/channel/UCekAfUwvLkP_8JJKNNd_XKw">
