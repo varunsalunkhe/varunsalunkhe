@@ -67,10 +67,10 @@
 
 <!--[![GitHub Streak](https://streak-stats.demolab.com/?user=varunsalunkhe)](https://git.io/streak-stats)-->
 
-<details>
+<!--<details>
 <summary> <bold>CLICK TO WATCH CONTRIBUTION GRAPH </bold> </summary>
 
 
 [![varunsalunkhe's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=varunsalunkhe&theme=react-dark&area_color=4b889bad)](https://github.com/varunsalunkhe/github-readme-activity-graph)
 
-</details>
+</details>-->
