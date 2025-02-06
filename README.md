@@ -4,9 +4,6 @@
 
 <h3 align="center">As a Data Scientist, I specialize in applying my expertise in AI/ML and GenAI to develop innovative solutions for diverse business and social challenges.</h3> 
 
-<!-- Followers -->
-<!-- ![GitHub followers](https://img.shields.io/github/followers/varunsalunkhe?style=flat&label=FOLLOWERS) <img src="https://komarev.com/ghpvc/?username=varunsalunkhe&label=PROFILE VIEWS  &color=red&style=flat" alt="varunsalunkhe"/> -->
-
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fvarunsalunkhe&labelColor=%23697689&countColor=%23dce775) &nbsp;
 [![GitHub followers](https://img.shields.io/github/followers/varunsalunkhe?logo=GitHub&style=for-the-badge)](https://github.com/varunsalunkhe) &nbsp; [![GitHub Stars](https://img.shields.io/github/stars/varunsalunkhe?logo=github&style=for-the-badge)](https://github.com/varunsalunkhe)
 
