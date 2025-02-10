@@ -45,7 +45,7 @@
 ## **GitHub Trophies :**
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=varunsalunkhe&theme=onedark" alt="varunsalunkhe" /></a> </p>
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 <p align="center">
 <img width="44%" src="https://github-readme-stats.vercel.app/api/top-langs?username=varunsalunkhe&show_icons=true&theme=dark&text_color=d3d3d3&&locale=en&layout=compact" alt="varunsalunkhe" />
